@@ -1,0 +1,5 @@
+run_id,pid,role,file,reads,bytes_read,read_time,run_time,effective_read_bandwidth_MBps,read_time_per_runtime,read_time_pct_runtime
+1338645,1338645,parent,/pscratch/sd/s/satt/sprints/a_star_campaign/h5/h5_tr_102.py,10,204479,0.0006034374237060547,358.4686155319214,338.85700814539706,1.6833758872046052e-06,0.00016833758872046052
+1338645,1338645,parent,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_2.h5,1417,800449272,0.7383015155792236,358.4686155319214,1084.1766610380303,0.0020595987586909917,0.20595987586909917
+1338645,1338673,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/h5/h5_tr_102.py,0,0,0.0,320.83331298828125,,0.0,0.0
+1338645,1338674,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/h5/h5_tr_102.py,0,0,0.0,320.82472586631775,,0.0,0.0

@@ -1,0 +1,5 @@
+run_id,pid,role,file,reads,bytes_read,opens,seeks,stats,max_byte_read,read_time,meta_time,hist_total,mean_read_size,frac_reads_lt_10k,0_100,100_1K,1K_10K,10K_100K,100K_1M,1M_4M,4M_10M,10M_100M,100M_1G,1G_PLUS
+2205760,2205760,parent,/pscratch/sd/s/satt/sprints/a_star_campaign/h5/h5_tr_201.py,10,204479,5,13,19,105375,0.0006132125854492188,0.0014045238494873047,10,20447.9,0.5,5,0,0,4,1,0,0,0,0,0
+2205760,2205760,parent,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_21.h5,17,5536,2,0,4,720380151,0.0006597042083740234,0.0005331039428710938,17,325.6470588235294,1.0,6,11,0,0,0,0,0,0,0,0
+2205760,2205783,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/h5/h5_tr_201.py,0,0,0,0,3,0,0.0,7.963180541992188e-05,0,,,0,0,0,0,0,0,0,0,0,0
+2205760,2205783,worker,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_21.h5,1409,800446760,1,0,2,800445407,1.6602048873901367,7.581710815429688e-05,1409,568095.6422995032,0.0248403122782115,3,6,26,0,1374,0,0,0,0,0

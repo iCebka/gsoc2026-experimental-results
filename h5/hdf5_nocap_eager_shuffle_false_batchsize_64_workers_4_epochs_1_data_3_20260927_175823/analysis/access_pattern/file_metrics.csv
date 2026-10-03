@@ -1,0 +1,7 @@
+run_id,pid,role,file,reads,seq_reads,consec_reads,seeks,consecutive_reads,sequential_gap_reads,nonsequential_reads,consecutive_ratio,sequential_gap_ratio,nonsequential_ratio,sequential_ratio,seeks_per_read,seeks_per_1000_reads
+1299882,1299882,parent,/pscratch/sd/s/satt/sprints/a_star_campaign/h5/h5_tr_103.py,10,5,5,13,5,0,5,0.5,0.0,0.5,0.5,1.3,1300.0
+1299882,1299882,parent,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_3.h5,1417,1384,1333,0,1333,51,33,0.9407198306280875,0.03599153140437544,0.02328863796753705,0.976711362032463,0.0,0.0
+1299882,1299904,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/h5/h5_tr_103.py,0,0,0,0,0,0,0,,,,,,
+1299882,1299905,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/h5/h5_tr_103.py,0,0,0,0,0,0,0,,,,,,
+1299882,1299906,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/h5/h5_tr_103.py,0,0,0,0,0,0,0,,,,,,
+1299882,1299907,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/h5/h5_tr_103.py,0,0,0,0,0,0,0,,,,,,
