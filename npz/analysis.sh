@@ -15,7 +15,7 @@ set -uo pipefail
 
 POST=/pscratch/sd/s/satt/sprints/cli-test/ccode/darshanflow/post
 
-RUNS="${1:-/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph}"
+RUNS="${1:-/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact}"
 
 # Keep NPZ dataset files and the training-script records.
 #
@@ -33,8 +33,8 @@ INCLUDE="${INCLUDE:-\.npz$|npz_tr(_[0-9]+)?\.py$}"
 # CSV files are always generated independently of these flags.
 # ---------------------------------------------------------------------------
 
-GRAPHS="${GRAPHS:-false}"                    # io_intensity.py: all graphs
-COMPACT="${COMPACT:-false}"                  # compact run/worker graphs
+GRAPHS="${GRAPHS:-true}"                    # io_intensity.py: all graphs
+COMPACT="${COMPACT:-true}"                  # compact run/worker graphs
 INDIVIDUAL="${INDIVIDUAL:-false}"            # individual file/process/worker graphs
 META_INDIVIDUAL="${META_INDIVIDUAL:-false}"  # individual metadata graphs too
 

@@ -1,6 +1,6 @@
 {
  "schema": "darshan-simplified/1",
- "source_dir": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_1_blockrows_1024_epochs_1_20260927_074735/darshan_logs",
+ "source_dir": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_1_blockrows_1024_epochs_1_20260927_074735/darshan_logs",
  "include": "\\.npz$|npz_tr(_[0-9]+)?\\.py$",
  "exclude": null,
  "n_logs": 2,
@@ -8,7 +8,7 @@
  "logs": [
   {
    "log": "satt_python3_id2112538-2112538_9-27-28056-5076883828214793925_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_1_blockrows_1024_epochs_1_20260927_074735/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_1_epochs_1/satt_python3_id2112538-2112538_9-27-28056-5076883828214793925_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_1_blockrows_1024_epochs_1_20260927_074735/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_1_epochs_1/satt_python3_id2112538-2112538_9-27-28056-5076883828214793925_1.darshan.json",
    "run_id": "2112538",
    "pid": 2112538,
    "role": "parent",
@@ -250,7 +250,7 @@
   },
   {
    "log": "satt_python3_id2112538-2112616_9-27-28067-5127586967827280070_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_1_blockrows_1024_epochs_1_20260927_074735/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_1_epochs_1/satt_python3_id2112538-2112616_9-27-28067-5127586967827280070_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_1_blockrows_1024_epochs_1_20260927_074735/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_1_epochs_1/satt_python3_id2112538-2112616_9-27-28067-5127586967827280070_1.darshan.json",
    "run_id": "2112538",
    "pid": 2112616,
    "role": "worker",

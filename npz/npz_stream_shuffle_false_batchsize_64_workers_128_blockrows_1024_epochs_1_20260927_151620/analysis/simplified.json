@@ -1,6 +1,6 @@
 {
  "schema": "darshan-simplified/1",
- "source_dir": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs",
+ "source_dir": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs",
  "include": "\\.npz$|npz_tr(_[0-9]+)?\\.py$",
  "exclude": null,
  "n_logs": 129,
@@ -8,7 +8,7 @@
  "logs": [
   {
    "log": "satt_python3_id1003606-1003606_9-27-54981-18065564041698818672_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003606_9-27-54981-18065564041698818672_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003606_9-27-54981-18065564041698818672_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003606,
    "role": "parent",
@@ -250,7 +250,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003684_9-27-54991-15930134406834056759_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003684_9-27-54991-15930134406834056759_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003684_9-27-54991-15930134406834056759_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003684,
    "role": "worker",
@@ -490,7 +490,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003685_9-27-54991-5347840790550772602_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003685_9-27-54991-5347840790550772602_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003685_9-27-54991-5347840790550772602_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003685,
    "role": "worker",
@@ -730,7 +730,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003686_9-27-54991-8357227415643155693_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003686_9-27-54991-8357227415643155693_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003686_9-27-54991-8357227415643155693_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003686,
    "role": "worker",
@@ -970,7 +970,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003687_9-27-54991-5797754342576607882_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003687_9-27-54991-5797754342576607882_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003687_9-27-54991-5797754342576607882_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003687,
    "role": "worker",
@@ -1210,7 +1210,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003688_9-27-54991-1857813767919202229_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003688_9-27-54991-1857813767919202229_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003688_9-27-54991-1857813767919202229_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003688,
    "role": "worker",
@@ -1450,7 +1450,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003689_9-27-54991-17974010183199700551_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003689_9-27-54991-17974010183199700551_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003689_9-27-54991-17974010183199700551_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003689,
    "role": "worker",
@@ -1690,7 +1690,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003690_9-27-54991-7922864073760242959_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003690_9-27-54991-7922864073760242959_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003690_9-27-54991-7922864073760242959_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003690,
    "role": "worker",
@@ -1930,7 +1930,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003691_9-27-54991-16781328193868271551_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003691_9-27-54991-16781328193868271551_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003691_9-27-54991-16781328193868271551_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003691,
    "role": "worker",
@@ -2170,7 +2170,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003692_9-27-54991-17268952029390692911_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003692_9-27-54991-17268952029390692911_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003692_9-27-54991-17268952029390692911_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003692,
    "role": "worker",
@@ -2410,7 +2410,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003693_9-27-54991-11234766179175638859_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003693_9-27-54991-11234766179175638859_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003693_9-27-54991-11234766179175638859_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003693,
    "role": "worker",
@@ -2650,7 +2650,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003694_9-27-54991-6597203456137000796_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003694_9-27-54991-6597203456137000796_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003694_9-27-54991-6597203456137000796_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003694,
    "role": "worker",
@@ -2890,7 +2890,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003695_9-27-54991-9672424162674973232_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003695_9-27-54991-9672424162674973232_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003695_9-27-54991-9672424162674973232_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003695,
    "role": "worker",
@@ -3130,7 +3130,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003696_9-27-54991-13634858934440905637_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003696_9-27-54991-13634858934440905637_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003696_9-27-54991-13634858934440905637_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003696,
    "role": "worker",
@@ -3370,7 +3370,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003697_9-27-54991-19815330220638877_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003697_9-27-54991-19815330220638877_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003697_9-27-54991-19815330220638877_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003697,
    "role": "worker",
@@ -3610,7 +3610,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003698_9-27-54991-17344003077962211245_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003698_9-27-54991-17344003077962211245_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003698_9-27-54991-17344003077962211245_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003698,
    "role": "worker",
@@ -3850,7 +3850,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003699_9-27-54991-12007964896149341806_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003699_9-27-54991-12007964896149341806_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003699_9-27-54991-12007964896149341806_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003699,
    "role": "worker",
@@ -4090,7 +4090,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003700_9-27-54991-13749778676735246138_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003700_9-27-54991-13749778676735246138_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003700_9-27-54991-13749778676735246138_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003700,
    "role": "worker",
@@ -4330,7 +4330,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003701_9-27-54991-10476576048331451779_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003701_9-27-54991-10476576048331451779_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003701_9-27-54991-10476576048331451779_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003701,
    "role": "worker",
@@ -4570,7 +4570,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003702_9-27-54991-7527737648897298138_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003702_9-27-54991-7527737648897298138_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003702_9-27-54991-7527737648897298138_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003702,
    "role": "worker",
@@ -4810,7 +4810,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003703_9-27-54991-7331398243988903284_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003703_9-27-54991-7331398243988903284_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003703_9-27-54991-7331398243988903284_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003703,
    "role": "worker",
@@ -5050,7 +5050,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003704_9-27-54991-6432829510425139657_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003704_9-27-54991-6432829510425139657_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003704_9-27-54991-6432829510425139657_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003704,
    "role": "worker",
@@ -5290,7 +5290,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003705_9-27-54991-845932114794424106_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003705_9-27-54991-845932114794424106_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003705_9-27-54991-845932114794424106_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003705,
    "role": "worker",
@@ -5530,7 +5530,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003706_9-27-54991-15506777490055545287_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003706_9-27-54991-15506777490055545287_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003706_9-27-54991-15506777490055545287_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003706,
    "role": "worker",
@@ -5770,7 +5770,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003707_9-27-54991-5326542054106375032_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003707_9-27-54991-5326542054106375032_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003707_9-27-54991-5326542054106375032_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003707,
    "role": "worker",
@@ -6010,7 +6010,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003708_9-27-54991-792626014098276161_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003708_9-27-54991-792626014098276161_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003708_9-27-54991-792626014098276161_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003708,
    "role": "worker",
@@ -6250,7 +6250,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003709_9-27-54991-16271964746928242027_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003709_9-27-54991-16271964746928242027_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003709_9-27-54991-16271964746928242027_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003709,
    "role": "worker",
@@ -6490,7 +6490,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003710_9-27-54991-3408320260464196772_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003710_9-27-54991-3408320260464196772_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003710_9-27-54991-3408320260464196772_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003710,
    "role": "worker",
@@ -6730,7 +6730,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003711_9-27-54991-4492703352321709164_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003711_9-27-54991-4492703352321709164_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003711_9-27-54991-4492703352321709164_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003711,
    "role": "worker",
@@ -6970,7 +6970,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003712_9-27-54991-15672251248509775084_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003712_9-27-54991-15672251248509775084_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003712_9-27-54991-15672251248509775084_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003712,
    "role": "worker",
@@ -7210,7 +7210,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003713_9-27-54991-16236241183270258697_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003713_9-27-54991-16236241183270258697_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003713_9-27-54991-16236241183270258697_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003713,
    "role": "worker",
@@ -7450,7 +7450,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003714_9-27-54991-9723165597967858898_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003714_9-27-54991-9723165597967858898_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003714_9-27-54991-9723165597967858898_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003714,
    "role": "worker",
@@ -7690,7 +7690,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003715_9-27-54991-10022989593438931283_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003715_9-27-54991-10022989593438931283_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003715_9-27-54991-10022989593438931283_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003715,
    "role": "worker",
@@ -7930,7 +7930,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003716_9-27-54991-11061160733661015331_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003716_9-27-54991-11061160733661015331_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003716_9-27-54991-11061160733661015331_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003716,
    "role": "worker",
@@ -8170,7 +8170,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003717_9-27-54991-14813718121970932479_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003717_9-27-54991-14813718121970932479_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003717_9-27-54991-14813718121970932479_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003717,
    "role": "worker",
@@ -8410,7 +8410,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003718_9-27-54991-8596358706219866665_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003718_9-27-54991-8596358706219866665_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003718_9-27-54991-8596358706219866665_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003718,
    "role": "worker",
@@ -8650,7 +8650,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003719_9-27-54991-1263463820087298343_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003719_9-27-54991-1263463820087298343_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003719_9-27-54991-1263463820087298343_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003719,
    "role": "worker",
@@ -8890,7 +8890,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003720_9-27-54991-711756181793355319_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003720_9-27-54991-711756181793355319_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003720_9-27-54991-711756181793355319_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003720,
    "role": "worker",
@@ -9130,7 +9130,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003721_9-27-54991-12965205110625094060_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003721_9-27-54991-12965205110625094060_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003721_9-27-54991-12965205110625094060_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003721,
    "role": "worker",
@@ -9370,7 +9370,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003722_9-27-54991-18338799193922997470_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003722_9-27-54991-18338799193922997470_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003722_9-27-54991-18338799193922997470_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003722,
    "role": "worker",
@@ -9610,7 +9610,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003723_9-27-54992-10249693886377679563_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003723_9-27-54992-10249693886377679563_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003723_9-27-54992-10249693886377679563_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003723,
    "role": "worker",
@@ -9850,7 +9850,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003724_9-27-54992-14015492158875275470_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003724_9-27-54992-14015492158875275470_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003724_9-27-54992-14015492158875275470_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003724,
    "role": "worker",
@@ -10090,7 +10090,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003725_9-27-54992-7252094343587587828_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003725_9-27-54992-7252094343587587828_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003725_9-27-54992-7252094343587587828_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003725,
    "role": "worker",
@@ -10330,7 +10330,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003726_9-27-54992-4927702389456073717_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003726_9-27-54992-4927702389456073717_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003726_9-27-54992-4927702389456073717_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003726,
    "role": "worker",
@@ -10570,7 +10570,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003727_9-27-54992-13967472108669311582_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003727_9-27-54992-13967472108669311582_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003727_9-27-54992-13967472108669311582_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003727,
    "role": "worker",
@@ -10810,7 +10810,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003728_9-27-54992-12804797086772585134_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003728_9-27-54992-12804797086772585134_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003728_9-27-54992-12804797086772585134_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003728,
    "role": "worker",
@@ -11050,7 +11050,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003729_9-27-54992-3457564913552097437_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003729_9-27-54992-3457564913552097437_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003729_9-27-54992-3457564913552097437_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003729,
    "role": "worker",
@@ -11290,7 +11290,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003730_9-27-54992-676101958276747133_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003730_9-27-54992-676101958276747133_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003730_9-27-54992-676101958276747133_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003730,
    "role": "worker",
@@ -11530,7 +11530,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003731_9-27-54992-10789449987411847235_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003731_9-27-54992-10789449987411847235_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003731_9-27-54992-10789449987411847235_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003731,
    "role": "worker",
@@ -11770,7 +11770,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003732_9-27-54992-1078910520461179702_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003732_9-27-54992-1078910520461179702_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003732_9-27-54992-1078910520461179702_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003732,
    "role": "worker",
@@ -12010,7 +12010,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003733_9-27-54992-3491171200722138319_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003733_9-27-54992-3491171200722138319_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003733_9-27-54992-3491171200722138319_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003733,
    "role": "worker",
@@ -12250,7 +12250,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003734_9-27-54992-156559696739601988_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003734_9-27-54992-156559696739601988_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003734_9-27-54992-156559696739601988_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003734,
    "role": "worker",
@@ -12490,7 +12490,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003735_9-27-54992-2947362186503413642_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003735_9-27-54992-2947362186503413642_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003735_9-27-54992-2947362186503413642_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003735,
    "role": "worker",
@@ -12730,7 +12730,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003736_9-27-54992-14357928167398478763_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003736_9-27-54992-14357928167398478763_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003736_9-27-54992-14357928167398478763_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003736,
    "role": "worker",
@@ -12970,7 +12970,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003737_9-27-54992-17211476913017488724_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003737_9-27-54992-17211476913017488724_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003737_9-27-54992-17211476913017488724_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003737,
    "role": "worker",
@@ -13210,7 +13210,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003738_9-27-54992-17321527888315568201_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003738_9-27-54992-17321527888315568201_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003738_9-27-54992-17321527888315568201_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003738,
    "role": "worker",
@@ -13450,7 +13450,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003739_9-27-54992-17984697378444472054_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003739_9-27-54992-17984697378444472054_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003739_9-27-54992-17984697378444472054_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003739,
    "role": "worker",
@@ -13690,7 +13690,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003740_9-27-54992-14195810583458376087_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003740_9-27-54992-14195810583458376087_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003740_9-27-54992-14195810583458376087_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003740,
    "role": "worker",
@@ -13930,7 +13930,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003741_9-27-54992-2680372931094223026_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003741_9-27-54992-2680372931094223026_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003741_9-27-54992-2680372931094223026_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003741,
    "role": "worker",
@@ -14170,7 +14170,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003742_9-27-54992-14251776182224826277_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003742_9-27-54992-14251776182224826277_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003742_9-27-54992-14251776182224826277_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003742,
    "role": "worker",
@@ -14410,7 +14410,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003743_9-27-54992-13508428664060674069_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003743_9-27-54992-13508428664060674069_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003743_9-27-54992-13508428664060674069_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003743,
    "role": "worker",
@@ -14650,7 +14650,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003744_9-27-54992-2205920583098494194_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003744_9-27-54992-2205920583098494194_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003744_9-27-54992-2205920583098494194_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003744,
    "role": "worker",
@@ -14890,7 +14890,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003745_9-27-54992-16055721515331345878_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003745_9-27-54992-16055721515331345878_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003745_9-27-54992-16055721515331345878_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003745,
    "role": "worker",
@@ -15130,7 +15130,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003746_9-27-54992-2259631828122771765_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003746_9-27-54992-2259631828122771765_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003746_9-27-54992-2259631828122771765_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003746,
    "role": "worker",
@@ -15370,7 +15370,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003747_9-27-54992-11868423527871481022_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003747_9-27-54992-11868423527871481022_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003747_9-27-54992-11868423527871481022_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003747,
    "role": "worker",
@@ -15610,7 +15610,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003748_9-27-54992-11013927883743819646_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003748_9-27-54992-11013927883743819646_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003748_9-27-54992-11013927883743819646_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003748,
    "role": "worker",
@@ -15850,7 +15850,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003749_9-27-54992-11230329895782789140_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003749_9-27-54992-11230329895782789140_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003749_9-27-54992-11230329895782789140_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003749,
    "role": "worker",
@@ -16090,7 +16090,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003750_9-27-54992-15474067609548207332_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003750_9-27-54992-15474067609548207332_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003750_9-27-54992-15474067609548207332_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003750,
    "role": "worker",
@@ -16330,7 +16330,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003751_9-27-54992-11106681474911302648_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003751_9-27-54992-11106681474911302648_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003751_9-27-54992-11106681474911302648_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003751,
    "role": "worker",
@@ -16570,7 +16570,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003752_9-27-54992-13238163625927653327_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003752_9-27-54992-13238163625927653327_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003752_9-27-54992-13238163625927653327_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003752,
    "role": "worker",
@@ -16810,7 +16810,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003753_9-27-54992-13508428664060674069_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003753_9-27-54992-13508428664060674069_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003753_9-27-54992-13508428664060674069_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003753,
    "role": "worker",
@@ -17050,7 +17050,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003754_9-27-54992-15623916017735059097_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003754_9-27-54992-15623916017735059097_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003754_9-27-54992-15623916017735059097_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003754,
    "role": "worker",
@@ -17290,7 +17290,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003755_9-27-54992-14074777939966167006_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003755_9-27-54992-14074777939966167006_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003755_9-27-54992-14074777939966167006_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003755,
    "role": "worker",
@@ -17530,7 +17530,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003756_9-27-54992-3503785594557306745_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003756_9-27-54992-3503785594557306745_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003756_9-27-54992-3503785594557306745_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003756,
    "role": "worker",
@@ -17770,7 +17770,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003757_9-27-54992-3366457857577838717_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003757_9-27-54992-3366457857577838717_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003757_9-27-54992-3366457857577838717_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003757,
    "role": "worker",
@@ -18010,7 +18010,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003758_9-27-54992-9236437511611065124_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003758_9-27-54992-9236437511611065124_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003758_9-27-54992-9236437511611065124_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003758,
    "role": "worker",
@@ -18250,7 +18250,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003759_9-27-54992-6637237591417428064_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003759_9-27-54992-6637237591417428064_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003759_9-27-54992-6637237591417428064_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003759,
    "role": "worker",
@@ -18490,7 +18490,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003760_9-27-54992-14843057137323538969_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003760_9-27-54992-14843057137323538969_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003760_9-27-54992-14843057137323538969_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003760,
    "role": "worker",
@@ -18730,7 +18730,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003761_9-27-54992-18001063055588900168_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003761_9-27-54992-18001063055588900168_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003761_9-27-54992-18001063055588900168_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003761,
    "role": "worker",
@@ -18970,7 +18970,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003762_9-27-54992-3968294770040720550_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003762_9-27-54992-3968294770040720550_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003762_9-27-54992-3968294770040720550_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003762,
    "role": "worker",
@@ -19210,7 +19210,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003763_9-27-54992-14031082425783351450_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003763_9-27-54992-14031082425783351450_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003763_9-27-54992-14031082425783351450_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003763,
    "role": "worker",
@@ -19450,7 +19450,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003764_9-27-54992-16965214280561075426_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003764_9-27-54992-16965214280561075426_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003764_9-27-54992-16965214280561075426_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003764,
    "role": "worker",
@@ -19690,7 +19690,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003765_9-27-54992-4725668272527318862_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003765_9-27-54992-4725668272527318862_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003765_9-27-54992-4725668272527318862_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003765,
    "role": "worker",
@@ -19930,7 +19930,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003766_9-27-54992-12966399990930026825_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003766_9-27-54992-12966399990930026825_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003766_9-27-54992-12966399990930026825_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003766,
    "role": "worker",
@@ -20170,7 +20170,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003767_9-27-54992-12337914947744572889_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003767_9-27-54992-12337914947744572889_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003767_9-27-54992-12337914947744572889_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003767,
    "role": "worker",
@@ -20410,7 +20410,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003768_9-27-54992-1370467113906051240_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003768_9-27-54992-1370467113906051240_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003768_9-27-54992-1370467113906051240_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003768,
    "role": "worker",
@@ -20650,7 +20650,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003769_9-27-54992-2510964013139399428_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003769_9-27-54992-2510964013139399428_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003769_9-27-54992-2510964013139399428_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003769,
    "role": "worker",
@@ -20890,7 +20890,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003770_9-27-54992-3396958836146250581_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003770_9-27-54992-3396958836146250581_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003770_9-27-54992-3396958836146250581_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003770,
    "role": "worker",
@@ -21130,7 +21130,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003771_9-27-54992-10703989046316789139_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003771_9-27-54992-10703989046316789139_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003771_9-27-54992-10703989046316789139_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003771,
    "role": "worker",
@@ -21370,7 +21370,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003772_9-27-54992-18002321576749813268_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003772_9-27-54992-18002321576749813268_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003772_9-27-54992-18002321576749813268_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003772,
    "role": "worker",
@@ -21610,7 +21610,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003773_9-27-54992-612332706289943971_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003773_9-27-54992-612332706289943971_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003773_9-27-54992-612332706289943971_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003773,
    "role": "worker",
@@ -21850,7 +21850,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003774_9-27-54992-7856195898371023536_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003774_9-27-54992-7856195898371023536_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003774_9-27-54992-7856195898371023536_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003774,
    "role": "worker",
@@ -22090,7 +22090,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003775_9-27-54992-10271070873096571790_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003775_9-27-54992-10271070873096571790_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003775_9-27-54992-10271070873096571790_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003775,
    "role": "worker",
@@ -22330,7 +22330,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003776_9-27-54992-6610798679724016589_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003776_9-27-54992-6610798679724016589_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003776_9-27-54992-6610798679724016589_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003776,
    "role": "worker",
@@ -22570,7 +22570,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003777_9-27-54992-6955260744680719107_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003777_9-27-54992-6955260744680719107_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003777_9-27-54992-6955260744680719107_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003777,
    "role": "worker",
@@ -22810,7 +22810,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003778_9-27-54992-7316117390931611203_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003778_9-27-54992-7316117390931611203_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003778_9-27-54992-7316117390931611203_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003778,
    "role": "worker",
@@ -23050,7 +23050,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003779_9-27-54992-13843640829610590807_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003779_9-27-54992-13843640829610590807_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003779_9-27-54992-13843640829610590807_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003779,
    "role": "worker",
@@ -23290,7 +23290,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003780_9-27-54992-12801328826970184372_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003780_9-27-54992-12801328826970184372_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003780_9-27-54992-12801328826970184372_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003780,
    "role": "worker",
@@ -23530,7 +23530,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003781_9-27-54992-10425333550486312374_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003781_9-27-54992-10425333550486312374_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003781_9-27-54992-10425333550486312374_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003781,
    "role": "worker",
@@ -23770,7 +23770,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003782_9-27-54992-4197198140125473713_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003782_9-27-54992-4197198140125473713_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003782_9-27-54992-4197198140125473713_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003782,
    "role": "worker",
@@ -24010,7 +24010,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003783_9-27-54992-16858945749101105970_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003783_9-27-54992-16858945749101105970_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003783_9-27-54992-16858945749101105970_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003783,
    "role": "worker",
@@ -24250,7 +24250,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003784_9-27-54992-6197976876527932266_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003784_9-27-54992-6197976876527932266_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003784_9-27-54992-6197976876527932266_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003784,
    "role": "worker",
@@ -24490,7 +24490,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003785_9-27-54992-6703769767522155510_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003785_9-27-54992-6703769767522155510_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003785_9-27-54992-6703769767522155510_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003785,
    "role": "worker",
@@ -24730,7 +24730,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003786_9-27-54992-13629206908737845716_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003786_9-27-54992-13629206908737845716_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003786_9-27-54992-13629206908737845716_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003786,
    "role": "worker",
@@ -24970,7 +24970,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003787_9-27-54992-16417976546547728896_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003787_9-27-54992-16417976546547728896_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003787_9-27-54992-16417976546547728896_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003787,
    "role": "worker",
@@ -25210,7 +25210,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003788_9-27-54992-10904146106696836541_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003788_9-27-54992-10904146106696836541_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003788_9-27-54992-10904146106696836541_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003788,
    "role": "worker",
@@ -25450,7 +25450,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003789_9-27-54992-1323187890175445502_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003789_9-27-54992-1323187890175445502_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003789_9-27-54992-1323187890175445502_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003789,
    "role": "worker",
@@ -25690,7 +25690,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003790_9-27-54992-8392759188710358046_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003790_9-27-54992-8392759188710358046_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003790_9-27-54992-8392759188710358046_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003790,
    "role": "worker",
@@ -25930,7 +25930,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003791_9-27-54992-11704198233760473028_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003791_9-27-54992-11704198233760473028_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003791_9-27-54992-11704198233760473028_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003791,
    "role": "worker",
@@ -26170,7 +26170,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003792_9-27-54992-10036782705812440042_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003792_9-27-54992-10036782705812440042_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003792_9-27-54992-10036782705812440042_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003792,
    "role": "worker",
@@ -26410,7 +26410,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003793_9-27-54992-8954103256690980599_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003793_9-27-54992-8954103256690980599_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003793_9-27-54992-8954103256690980599_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003793,
    "role": "worker",
@@ -26650,7 +26650,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003794_9-27-54992-12966685634950796104_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003794_9-27-54992-12966685634950796104_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003794_9-27-54992-12966685634950796104_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003794,
    "role": "worker",
@@ -26890,7 +26890,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003795_9-27-54992-5901473943325219438_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003795_9-27-54992-5901473943325219438_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003795_9-27-54992-5901473943325219438_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003795,
    "role": "worker",
@@ -27130,7 +27130,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003796_9-27-54992-12795855327602958527_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003796_9-27-54992-12795855327602958527_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003796_9-27-54992-12795855327602958527_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003796,
    "role": "worker",
@@ -27370,7 +27370,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003797_9-27-54992-4419343126183450689_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003797_9-27-54992-4419343126183450689_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003797_9-27-54992-4419343126183450689_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003797,
    "role": "worker",
@@ -27610,7 +27610,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003798_9-27-54992-3807812671836847525_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003798_9-27-54992-3807812671836847525_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003798_9-27-54992-3807812671836847525_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003798,
    "role": "worker",
@@ -27850,7 +27850,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003799_9-27-54992-17277198862822077663_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003799_9-27-54992-17277198862822077663_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003799_9-27-54992-17277198862822077663_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003799,
    "role": "worker",
@@ -28090,7 +28090,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003800_9-27-54992-15386806570344441955_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003800_9-27-54992-15386806570344441955_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003800_9-27-54992-15386806570344441955_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003800,
    "role": "worker",
@@ -28330,7 +28330,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003801_9-27-54992-6354469059391291345_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003801_9-27-54992-6354469059391291345_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003801_9-27-54992-6354469059391291345_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003801,
    "role": "worker",
@@ -28570,7 +28570,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003802_9-27-54992-1856229230179110407_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003802_9-27-54992-1856229230179110407_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003802_9-27-54992-1856229230179110407_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003802,
    "role": "worker",
@@ -28810,7 +28810,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003803_9-27-54992-8759327545550332543_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003803_9-27-54992-8759327545550332543_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003803_9-27-54992-8759327545550332543_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003803,
    "role": "worker",
@@ -29050,7 +29050,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003804_9-27-54992-13319569154194323819_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003804_9-27-54992-13319569154194323819_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003804_9-27-54992-13319569154194323819_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003804,
    "role": "worker",
@@ -29290,7 +29290,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003805_9-27-54992-625919693006826250_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003805_9-27-54992-625919693006826250_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003805_9-27-54992-625919693006826250_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003805,
    "role": "worker",
@@ -29530,7 +29530,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003806_9-27-54992-13027835007484164259_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003806_9-27-54992-13027835007484164259_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003806_9-27-54992-13027835007484164259_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003806,
    "role": "worker",
@@ -29770,7 +29770,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003807_9-27-54992-11036839595656109523_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003807_9-27-54992-11036839595656109523_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003807_9-27-54992-11036839595656109523_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003807,
    "role": "worker",
@@ -30010,7 +30010,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003808_9-27-54992-6432998507751383682_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003808_9-27-54992-6432998507751383682_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003808_9-27-54992-6432998507751383682_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003808,
    "role": "worker",
@@ -30250,7 +30250,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003809_9-27-54992-18201390979076973991_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003809_9-27-54992-18201390979076973991_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003809_9-27-54992-18201390979076973991_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003809,
    "role": "worker",
@@ -30490,7 +30490,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003810_9-27-54992-14305958034223434188_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003810_9-27-54992-14305958034223434188_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003810_9-27-54992-14305958034223434188_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003810,
    "role": "worker",
@@ -30730,7 +30730,7 @@
   },
   {
    "log": "satt_python3_id1003606-1003811_9-27-54992-5401034594857129325_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-nograph/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003811_9-27-54992-5401034594857129325_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/npz-compact/npz_stream_shuffle_false_batchsize_64_workers_128_blockrows_1024_epochs_1_20260927_151620/darshan_logs/strategy_stream_shuffle_false_batchsize_64_workers_128_epochs_1/satt_python3_id1003606-1003811_9-27-54992-5401034594857129325_1.darshan.json",
    "run_id": "1003606",
    "pid": 1003811,
    "role": "worker",
