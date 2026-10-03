@@ -1,0 +1,914 @@
+##########################
+##### DARSHAN CONFIG #####
+##########################
+# MODMEM = 100 MiB
+# NAMEMEM = 1024 KiB
+# MEM_ALIGNMENT = 8 bytes
+# JOBID = NONE
+# LOGHINTS = NONE
+# LOGPATH = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# LOGPATH_BYENV = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# MMAP_LOGPATH = /tmp
+# EXCLUDE_DIRS = /etc/,/dev/,/usr/,/bin/,/boot/,/lib/,/opt/,/sbin/,/sys/,/proc/,/var/
+# APP_EXCLUDE = git,ls,sh,hostname,sed,g++,date,cc1plus,cat,which,tar,ld,prmon,uname,ps,rm,tee,srun
+# APP_INCLUDE = python,python3
+# RANK_EXCLUDE = NONE
+# RANK_INCLUDE = NONE
+# DXT_SMALL_IO_TRIGGER = 0.01
+# POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 5000
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MPI-IO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# H5F MODULE CONFIG:
+#      - DISABLED
+# H5D MODULE CONFIG:
+#      - DISABLED
+# PNETCDF_FILE MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# PNETCDF_VAR MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# BG/Q MODULE CONFIG:
+#      - DISABLED
+# LUSTRE MODULE CONFIG:
+#      - DISABLED
+# STDIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 325520
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_MPIIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MDHIM MODULE CONFIG:
+#      - DISABLED
+# APXC MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# APMPI MODULE CONFIG:
+#      - DISABLED
+# HEATMAP MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DFS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DAOS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+##########################
+### END DARSHAN CONFIG ###
+##########################
+##########################
+##### DARSHAN CONFIG #####
+##########################
+# MODMEM = 100 MiB
+# NAMEMEM = 1024 KiB
+# MEM_ALIGNMENT = 8 bytes
+# JOBID = NONE
+# LOGHINTS = NONE
+# LOGPATH = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# LOGPATH_BYENV = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# MMAP_LOGPATH = /tmp
+# EXCLUDE_DIRS = /etc/,/dev/,/usr/,/bin/,/boot/,/lib/,/opt/,/sbin/,/sys/,/proc/,/var/
+# APP_EXCLUDE = git,ls,sh,hostname,sed,g++,date,cc1plus,cat,which,tar,ld,prmon,uname,ps,rm,tee,srun
+# APP_INCLUDE = python,python3
+# RANK_EXCLUDE = NONE
+# RANK_INCLUDE = NONE
+# DXT_SMALL_IO_TRIGGER = 0.01
+# POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 5000
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MPI-IO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# H5F MODULE CONFIG:
+#      - DISABLED
+# H5D MODULE CONFIG:
+#      - DISABLED
+# PNETCDF_FILE MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# PNETCDF_VAR MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# BG/Q MODULE CONFIG:
+#      - DISABLED
+# LUSTRE MODULE CONFIG:
+#      - DISABLED
+# STDIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 325520
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_MPIIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MDHIM MODULE CONFIG:
+#      - DISABLED
+# APXC MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# APMPI MODULE CONFIG:
+#      - DISABLED
+# HEATMAP MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DFS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DAOS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+##########################
+### END DARSHAN CONFIG ###
+##########################
+/pscratch/sd/s/satt/sprints/myvenv/lib/python3.13/site-packages/ROOT/__init__.py:222: UserWarning: 
+This distribution of ROOT is in alpha stage. Feedback is welcome and appreciated. Feel free to reach out to the user forum for questions and general feedback at https://root-forum.cern.ch or to submit an issue at https://github.com/root-project/root/issues. Do not rely on this distribution for production purposes.
+
+  warnings.warn(
+##########################
+##### DARSHAN CONFIG #####
+##########################
+# MODMEM = 100 MiB
+# NAMEMEM = 1024 KiB
+# MEM_ALIGNMENT = 8 bytes
+# JOBID = NONE
+# LOGHINTS = NONE
+# LOGPATH = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# LOGPATH_BYENV = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# MMAP_LOGPATH = /tmp
+# EXCLUDE_DIRS = /etc/,/dev/,/usr/,/bin/,/boot/,/lib/,/opt/,/sbin/,/sys/,/proc/,/var/
+# APP_EXCLUDE = git,ls,sh,hostname,sed,g++,date,cc1plus,cat,which,tar,ld,prmon,uname,ps,rm,tee,srun
+# APP_INCLUDE = python,python3
+# RANK_EXCLUDE = NONE
+# RANK_INCLUDE = NONE
+# DXT_SMALL_IO_TRIGGER = 0.01
+# POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 5000
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MPI-IO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# H5F MODULE CONFIG:
+#      - DISABLED
+# H5D MODULE CONFIG:
+#      - DISABLED
+# PNETCDF_FILE MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# PNETCDF_VAR MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# BG/Q MODULE CONFIG:
+#      - DISABLED
+# LUSTRE MODULE CONFIG:
+#      - DISABLED
+# STDIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 325520
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_MPIIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MDHIM MODULE CONFIG:
+#      - DISABLED
+# APXC MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# APMPI MODULE CONFIG:
+#      - DISABLED
+# HEATMAP MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DFS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DAOS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+##########################
+### END DARSHAN CONFIG ###
+##########################
+##########################
+##### DARSHAN CONFIG #####
+##########################
+# MODMEM = 100 MiB
+# NAMEMEM = 1024 KiB
+# MEM_ALIGNMENT = 8 bytes
+# JOBID = NONE
+# LOGHINTS = NONE
+# LOGPATH = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# LOGPATH_BYENV = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# MMAP_LOGPATH = /tmp
+# EXCLUDE_DIRS = /etc/,/dev/,/usr/,/bin/,/boot/,/lib/,/opt/,/sbin/,/sys/,/proc/,/var/
+# APP_EXCLUDE = git,ls,sh,hostname,sed,g++,date,cc1plus,cat,which,tar,ld,prmon,uname,ps,rm,tee,srun
+# APP_INCLUDE = python,python3
+# RANK_EXCLUDE = NONE
+# RANK_INCLUDE = NONE
+# DXT_SMALL_IO_TRIGGER = 0.01
+# POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 5000
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MPI-IO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# H5F MODULE CONFIG:
+#      - DISABLED
+# H5D MODULE CONFIG:
+#      - DISABLED
+# PNETCDF_FILE MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# PNETCDF_VAR MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# BG/Q MODULE CONFIG:
+#      - DISABLED
+# LUSTRE MODULE CONFIG:
+#      - DISABLED
+# STDIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 325520
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_MPIIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MDHIM MODULE CONFIG:
+#      - DISABLED
+# APXC MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# APMPI MODULE CONFIG:
+#      - DISABLED
+# HEATMAP MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DFS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DAOS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+##########################
+### END DARSHAN CONFIG ###
+##########################
+##########################
+##### DARSHAN CONFIG #####
+##########################
+# MODMEM = 100 MiB
+# NAMEMEM = 1024 KiB
+# MEM_ALIGNMENT = 8 bytes
+# JOBID = NONE
+# LOGHINTS = NONE
+# LOGPATH = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# LOGPATH_BYENV = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# MMAP_LOGPATH = /tmp
+# EXCLUDE_DIRS = /etc/,/dev/,/usr/,/bin/,/boot/,/lib/,/opt/,/sbin/,/sys/,/proc/,/var/
+# APP_EXCLUDE = git,ls,sh,hostname,sed,g++,date,cc1plus,cat,which,tar,ld,prmon,uname,ps,rm,tee,srun
+# APP_INCLUDE = python,python3
+# RANK_EXCLUDE = NONE
+# RANK_INCLUDE = NONE
+# DXT_SMALL_IO_TRIGGER = 0.01
+# POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 5000
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MPI-IO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# H5F MODULE CONFIG:
+#      - DISABLED
+# H5D MODULE CONFIG:
+#      - DISABLED
+# PNETCDF_FILE MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# PNETCDF_VAR MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# BG/Q MODULE CONFIG:
+#      - DISABLED
+# LUSTRE MODULE CONFIG:
+#      - DISABLED
+# STDIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 325520
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_MPIIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MDHIM MODULE CONFIG:
+#      - DISABLED
+# APXC MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# APMPI MODULE CONFIG:
+#      - DISABLED
+# HEATMAP MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DFS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DAOS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+##########################
+### END DARSHAN CONFIG ###
+##########################
+##########################
+##### DARSHAN CONFIG #####
+##########################
+# MODMEM = 100 MiB
+# NAMEMEM = 1024 KiB
+# MEM_ALIGNMENT = 8 bytes
+# JOBID = NONE
+# LOGHINTS = NONE
+# LOGPATH = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# LOGPATH_BYENV = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# MMAP_LOGPATH = /tmp
+# EXCLUDE_DIRS = /etc/,/dev/,/usr/,/bin/,/boot/,/lib/,/opt/,/sbin/,/sys/,/proc/,/var/
+# APP_EXCLUDE = git,ls,sh,hostname,sed,g++,date,cc1plus,cat,which,tar,ld,prmon,uname,ps,rm,tee,srun
+# APP_INCLUDE = python,python3
+# RANK_EXCLUDE = NONE
+# RANK_INCLUDE = NONE
+# DXT_SMALL_IO_TRIGGER = 0.01
+# POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 5000
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MPI-IO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# H5F MODULE CONFIG:
+#      - DISABLED
+# H5D MODULE CONFIG:
+#      - DISABLED
+# PNETCDF_FILE MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# PNETCDF_VAR MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# BG/Q MODULE CONFIG:
+#      - DISABLED
+# LUSTRE MODULE CONFIG:
+#      - DISABLED
+# STDIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 325520
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_MPIIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MDHIM MODULE CONFIG:
+#      - DISABLED
+# APXC MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# APMPI MODULE CONFIG:
+#      - DISABLED
+# HEATMAP MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DFS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DAOS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+##########################
+### END DARSHAN CONFIG ###
+##########################
+##########################
+##### DARSHAN CONFIG #####
+##########################
+# MODMEM = 100 MiB
+# NAMEMEM = 1024 KiB
+# MEM_ALIGNMENT = 8 bytes
+# JOBID = NONE
+# LOGHINTS = NONE
+# LOGPATH = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# LOGPATH_BYENV = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# MMAP_LOGPATH = /tmp
+# EXCLUDE_DIRS = /etc/,/dev/,/usr/,/bin/,/boot/,/lib/,/opt/,/sbin/,/sys/,/proc/,/var/
+# APP_EXCLUDE = git,ls,sh,hostname,sed,g++,date,cc1plus,cat,which,tar,ld,prmon,uname,ps,rm,tee,srun
+# APP_INCLUDE = python,python3
+# RANK_EXCLUDE = NONE
+# RANK_INCLUDE = NONE
+# DXT_SMALL_IO_TRIGGER = 0.01
+# POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 5000
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MPI-IO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# H5F MODULE CONFIG:
+#      - DISABLED
+# H5D MODULE CONFIG:
+#      - DISABLED
+# PNETCDF_FILE MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# PNETCDF_VAR MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# BG/Q MODULE CONFIG:
+#      - DISABLED
+# LUSTRE MODULE CONFIG:
+#      - DISABLED
+# STDIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 325520
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_MPIIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MDHIM MODULE CONFIG:
+#      - DISABLED
+# APXC MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# APMPI MODULE CONFIG:
+#      - DISABLED
+# HEATMAP MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DFS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DAOS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+##########################
+### END DARSHAN CONFIG ###
+##########################
+##########################
+##### DARSHAN CONFIG #####
+##########################
+# MODMEM = 100 MiB
+# NAMEMEM = 1024 KiB
+# MEM_ALIGNMENT = 8 bytes
+# JOBID = NONE
+# LOGHINTS = NONE
+# LOGPATH = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# LOGPATH_BYENV = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# MMAP_LOGPATH = /tmp
+# EXCLUDE_DIRS = /etc/,/dev/,/usr/,/bin/,/boot/,/lib/,/opt/,/sbin/,/sys/,/proc/,/var/
+# APP_EXCLUDE = git,ls,sh,hostname,sed,g++,date,cc1plus,cat,which,tar,ld,prmon,uname,ps,rm,tee,srun
+# APP_INCLUDE = python,python3
+# RANK_EXCLUDE = NONE
+# RANK_INCLUDE = NONE
+# DXT_SMALL_IO_TRIGGER = 0.01
+# POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 5000
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MPI-IO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# H5F MODULE CONFIG:
+#      - DISABLED
+# H5D MODULE CONFIG:
+#      - DISABLED
+# PNETCDF_FILE MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# PNETCDF_VAR MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# BG/Q MODULE CONFIG:
+#      - DISABLED
+# LUSTRE MODULE CONFIG:
+#      - DISABLED
+# STDIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 325520
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_MPIIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MDHIM MODULE CONFIG:
+#      - DISABLED
+# APXC MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# APMPI MODULE CONFIG:
+#      - DISABLED
+# HEATMAP MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DFS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DAOS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+##########################
+### END DARSHAN CONFIG ###
+##########################
+##########################
+##### DARSHAN CONFIG #####
+##########################
+# MODMEM = 100 MiB
+# NAMEMEM = 1024 KiB
+# MEM_ALIGNMENT = 8 bytes
+# JOBID = NONE
+# LOGHINTS = NONE
+# LOGPATH = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# LOGPATH_BYENV = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# MMAP_LOGPATH = /tmp
+# EXCLUDE_DIRS = /etc/,/dev/,/usr/,/bin/,/boot/,/lib/,/opt/,/sbin/,/sys/,/proc/,/var/
+# APP_EXCLUDE = git,ls,sh,hostname,sed,g++,date,cc1plus,cat,which,tar,ld,prmon,uname,ps,rm,tee,srun
+# APP_INCLUDE = python,python3
+# RANK_EXCLUDE = NONE
+# RANK_INCLUDE = NONE
+# DXT_SMALL_IO_TRIGGER = 0.01
+# POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 5000
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MPI-IO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# H5F MODULE CONFIG:
+#      - DISABLED
+# H5D MODULE CONFIG:
+#      - DISABLED
+# PNETCDF_FILE MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# PNETCDF_VAR MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# BG/Q MODULE CONFIG:
+#      - DISABLED
+# LUSTRE MODULE CONFIG:
+#      - DISABLED
+# STDIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 325520
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_MPIIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MDHIM MODULE CONFIG:
+#      - DISABLED
+# APXC MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# APMPI MODULE CONFIG:
+#      - DISABLED
+# HEATMAP MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DFS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DAOS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+##########################
+### END DARSHAN CONFIG ###
+##########################
+[DEBUG 03:23:24 +0.014s] entrered train()
+[DEBUG 03:23:24 +0.014s] configuration: strategy=burst shuffle=True batch_size=64 prefetch_factor=16 epochs=10
+[DEBUG 03:23:24 +0.014s] before torch.device()
+[DEBUG 03:23:24 +0.014s] after torch.device()
+[DEBUG 03:23:24 +0.014s] before ROOT.RDataFrame()
+[DEBUG 03:23:26 +1.211s] after ROOT.RDataFrame()
+[DEBUG 03:23:26 +1.211s] before select_feature_columns()
+[DEBUG 03:23:26 +1.279s] after select_feature_columns(): 18 features
+[DEBUG 03:23:26 +1.279s] before model construction
+[DEBUG 03:23:29 +4.788s] after model construction
+[DEBUG 03:23:29 +4.788s] before build_rdataloader(strategy=burst)
+[DEBUG 03:23:29 +4.788s] after build_rdataloader
+##########################
+##### DARSHAN CONFIG #####
+##########################
+# MODMEM = 100 MiB
+# NAMEMEM = 1024 KiB
+# MEM_ALIGNMENT = 8 bytes
+# JOBID = NONE
+# LOGHINTS = NONE
+# LOGPATH = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# LOGPATH_BYENV = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# MMAP_LOGPATH = /tmp
+# EXCLUDE_DIRS = /etc/,/dev/,/usr/,/bin/,/boot/,/lib/,/opt/,/sbin/,/sys/,/proc/,/var/
+# APP_EXCLUDE = git,ls,sh,hostname,sed,g++,date,cc1plus,cat,which,tar,ld,prmon,uname,ps,rm,tee,srun
+# APP_INCLUDE = python,python3
+# RANK_EXCLUDE = NONE
+# RANK_INCLUDE = NONE
+# DXT_SMALL_IO_TRIGGER = 0.01
+# POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 5000
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MPI-IO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# H5F MODULE CONFIG:
+#      - DISABLED
+# H5D MODULE CONFIG:
+#      - DISABLED
+# PNETCDF_FILE MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# PNETCDF_VAR MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# BG/Q MODULE CONFIG:
+#      - DISABLED
+# LUSTRE MODULE CONFIG:
+#      - DISABLED
+# STDIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 325520
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_MPIIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MDHIM MODULE CONFIG:
+#      - DISABLED
+# APXC MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# APMPI MODULE CONFIG:
+#      - DISABLED
+# HEATMAP MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DFS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DAOS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+##########################
+### END DARSHAN CONFIG ###
+##########################
+##########################
+##### DARSHAN CONFIG #####
+##########################
+# MODMEM = 100 MiB
+# NAMEMEM = 1024 KiB
+# MEM_ALIGNMENT = 8 bytes
+# JOBID = NONE
+# LOGHINTS = NONE
+# LOGPATH = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# LOGPATH_BYENV = /pscratch/sd/s/satt/sprints/a_star_campaign/root/runs/root_burst_bim_16_shuffle_true_20260915_032310/darshan_logs/strategy_burst_bim_16_shuffle_true_batchsize_64_epochs_10
+# MMAP_LOGPATH = /tmp
+# EXCLUDE_DIRS = /etc/,/dev/,/usr/,/bin/,/boot/,/lib/,/opt/,/sbin/,/sys/,/proc/,/var/
+# APP_EXCLUDE = git,ls,sh,hostname,sed,g++,date,cc1plus,cat,which,tar,ld,prmon,uname,ps,rm,tee,srun
+# APP_INCLUDE = python,python3
+# RANK_EXCLUDE = NONE
+# RANK_INCLUDE = NONE
+# DXT_SMALL_IO_TRIGGER = 0.01
+# POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 5000
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MPI-IO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# H5F MODULE CONFIG:
+#      - DISABLED
+# H5D MODULE CONFIG:
+#      - DISABLED
+# PNETCDF_FILE MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# PNETCDF_VAR MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# BG/Q MODULE CONFIG:
+#      - DISABLED
+# LUSTRE MODULE CONFIG:
+#      - DISABLED
+# STDIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_POSIX MODULE CONFIG:
+#      - ENABLED
+#      - MAX_RECORDS = 325520
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DXT_MPIIO MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# MDHIM MODULE CONFIG:
+#      - DISABLED
+# APXC MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# APMPI MODULE CONFIG:
+#      - DISABLED
+# HEATMAP MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DFS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+# DAOS MODULE CONFIG:
+#      - ENABLED
+#      - NAME_EXCLUDE = .pyc$,^/cvmfs,^/lib64,^/lib,^/gpfs/,^/work2,^/tmp,^/dev,^/scratch1
+#      - NAME_INCLUDE = .py$,.root$
+##########################
+### END DARSHAN CONFIG ###
+##########################
+  epoch 1/10  batch 50000  680.3 batches/s  elapsed 1m13s
+  epoch 1/10  batch 100000  714.1 batches/s  elapsed 2m20s
+  epoch 1/10  batch 150000  736.1 batches/s  elapsed 3m23s
+epoch 1/10  loss 0.0596  batches 156250  time 211.53s
+  epoch 2/10  batch 50000  781.4 batches/s  elapsed 1m03s
+  epoch 2/10  batch 100000  780.4 batches/s  elapsed 2m08s
+  epoch 2/10  batch 150000  782.2 batches/s  elapsed 3m11s
+epoch 2/10  loss 0.0295  batches 156250  time 199.52s
+  epoch 3/10  batch 50000  783.1 batches/s  elapsed 1m03s
+  epoch 3/10  batch 100000  777.5 batches/s  elapsed 2m08s
+  epoch 3/10  batch 150000  776.3 batches/s  elapsed 3m13s
+epoch 3/10  loss 0.0229  batches 156250  time 201.09s
+  epoch 4/10  batch 50000  765.2 batches/s  elapsed 1m05s
+  epoch 4/10  batch 100000  766.2 batches/s  elapsed 2m10s
+  epoch 4/10  batch 150000  766.9 batches/s  elapsed 3m15s
+epoch 4/10  loss 0.0201  batches 156250  time 203.50s
+  epoch 5/10  batch 50000  761.2 batches/s  elapsed 1m05s
+  epoch 5/10  batch 100000  760.9 batches/s  elapsed 2m11s
+  epoch 5/10  batch 150000  760.5 batches/s  elapsed 3m17s
+epoch 5/10  loss 0.0184  batches 156250  time 205.22s
+  epoch 6/10  batch 50000  758.1 batches/s  elapsed 1m05s
+  epoch 6/10  batch 100000  757.2 batches/s  elapsed 2m12s
+  epoch 6/10  batch 150000  757.8 batches/s  elapsed 3m17s
+epoch 6/10  loss 0.0172  batches 156250  time 205.92s
+  epoch 7/10  batch 50000  748.0 batches/s  elapsed 1m06s
+  epoch 7/10  batch 100000  759.9 batches/s  elapsed 2m11s
+  epoch 7/10  batch 150000  767.7 batches/s  elapsed 3m15s
+epoch 7/10  loss 0.0164  batches 156250  time 203.01s
+  epoch 8/10  batch 50000  778.2 batches/s  elapsed 1m04s
+  epoch 8/10  batch 100000  781.0 batches/s  elapsed 2m08s
+  epoch 8/10  batch 150000  781.4 batches/s  elapsed 3m11s
+epoch 8/10  loss 0.0157  batches 156250  time 199.71s
+  epoch 9/10  batch 50000  768.7 batches/s  elapsed 1m05s
+  epoch 9/10  batch 100000  777.5 batches/s  elapsed 2m08s
+  epoch 9/10  batch 150000  778.0 batches/s  elapsed 3m12s
+epoch 9/10  loss 0.0152  batches 156250  time 200.57s
+  epoch 10/10  batch 50000  737.0 batches/s  elapsed 1m07s
+  epoch 10/10  batch 100000  721.8 batches/s  elapsed 2m18s
+  epoch 10/10  batch 150000  716.6 batches/s  elapsed 3m29s
+epoch 10/10  loss 0.0147  batches 156250  time 217.91s

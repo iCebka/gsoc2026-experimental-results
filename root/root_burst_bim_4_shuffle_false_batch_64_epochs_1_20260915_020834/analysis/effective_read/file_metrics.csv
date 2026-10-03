@@ -1,0 +1,3 @@
+run_id,pid,role,file,reads,bytes_read,read_time,run_time,effective_read_bandwidth_MBps,read_time_per_runtime,read_time_pct_runtime
+469289,469289,parent,/pscratch/sd/s/satt/sprints/a_star_campaign/root/root_tr_10.py,10,205750,0.001848459243774414,235.3374834060669,111.3089188701148,7.854504165768442e-06,0.0007854504165768442
+469289,469289,parent,/pscratch/sd/s/satt/sprints/data/roots/mc_normalized_rntuple_10M_10.root,43,1267631508,1.2030651569366455,235.3374834060669,1053.6682079861403,0.005112084736883148,0.5112084736883147

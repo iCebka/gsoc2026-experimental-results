@@ -1,0 +1,3 @@
+run_id,pid,role,file,reads,seq_reads,consec_reads,seeks,consecutive_reads,sequential_gap_reads,nonsequential_reads,consecutive_ratio,sequential_gap_ratio,nonsequential_ratio,sequential_ratio,seeks_per_read,seeks_per_1000_reads
+1699909,1699909,parent,/pscratch/sd/s/satt/sprints/a_star_campaign/root/root_tr_120.py,10,5,5,13,5,0,5,0.5,0.0,0.5,0.5,1.3,1300.0
+1699909,1699909,parent,/pscratch/sd/s/satt/sprints/data/roots/mc_normalized_rntuple_10M_120.root,205,185,9,5,9,176,20,0.04390243902439024,0.8585365853658536,0.0975609756097561,0.9024390243902439,0.024390243902439025,24.390243902439025
