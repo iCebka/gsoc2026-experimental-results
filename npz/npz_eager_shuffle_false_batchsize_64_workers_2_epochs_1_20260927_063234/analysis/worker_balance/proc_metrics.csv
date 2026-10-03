@@ -1,0 +1,4 @@
+run_id,pid,role,run_time,any_partial,fmt,script,script_variant,strategy,model,workers,epochs,batch,data_path,batches_in_memory,block_rows,prefetch_factor,log_every,seed,device,tree_name,target_col,torch_num_threads,torch_interop_threads,shuffle,persistent_workers,n_records,n_files,reads,bytes_read,read_time,effective_read_bandwidth_MBps
+2318344,2318344,parent,324.3804359436035,False,npz,npz_tr_2.py,2,eager,M2,2,1,64,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_2.npz,,,,5000,,,,,,,,true,2,2,205,804477637,0.4305448532104492,1868.510634841507
+2318344,2318422,worker,311.67098808288574,False,npz,npz_tr_2.py,2,eager,M2,2,1,64,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_2.npz,,,,5000,,,,,,,,true,1,1,0,0,0.0,
+2318344,2318423,worker,311.65156078338623,False,npz,npz_tr_2.py,2,eager,M2,2,1,64,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_2.npz,,,,5000,,,,,,,,true,1,1,0,0,0.0,

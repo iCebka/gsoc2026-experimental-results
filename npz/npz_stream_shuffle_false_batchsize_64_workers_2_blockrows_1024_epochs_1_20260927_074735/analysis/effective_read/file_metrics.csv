@@ -1,0 +1,7 @@
+run_id,pid,role,file,reads,bytes_read,read_time,run_time,effective_read_bandwidth_MBps,read_time_per_runtime,read_time_pct_runtime
+923757,923757,parent,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_102.py,10,282655,0.00260162353515625,332.4418501853943,108.64561923753665,7.825800312762642e-06,0.0007825800312762642
+923757,923757,parent,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_102.npz,8,8388984,0.011640310287475586,332.4418501853943,720.683881513549,3.5014575574597736e-05,0.0035014575574597736
+923757,923835,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_102.py,0,0,0.0,321.28708720207214,,0.0,0.0
+923757,923835,worker,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_102.npz,102,402653560,0.36560559272766113,321.28708720207214,1101.333152471592,0.0011379405126783545,0.11379405126783544
+923757,923836,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_102.py,0,0,0.0,321.27955961227417,,0.0,0.0
+923757,923836,worker,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_102.npz,104,409099252,0.367495059967041,321.27955961227417,1113.2102076057574,0.0011438482435998747,0.11438482435998745

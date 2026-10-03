@@ -1,0 +1,5 @@
+run_id,pid,role,file,reads,seq_reads,consec_reads,seeks,consecutive_reads,sequential_gap_reads,nonsequential_reads,consecutive_ratio,sequential_gap_ratio,nonsequential_ratio,sequential_ratio,seeks_per_read,seeks_per_1000_reads
+2112538,2112538,parent,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_101.py,10,5,5,13,5,0,5,0.5,0.0,0.5,0.5,1.3,1300.0
+2112538,2112538,parent,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_101.npz,8,2,0,22,0,2,6,0.0,0.25,0.75,0.25,2.75,2750.0
+2112538,2112616,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_101.py,0,0,0,0,0,0,0,,,,,,
+2112538,2112616,worker,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_101.npz,198,21,1,19554,1,20,177,0.005050505050505051,0.10101010101010101,0.8939393939393939,0.10606060606060606,98.75757575757575,98757.57575757576

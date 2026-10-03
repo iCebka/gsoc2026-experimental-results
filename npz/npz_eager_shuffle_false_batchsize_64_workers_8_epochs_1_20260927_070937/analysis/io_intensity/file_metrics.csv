@@ -1,0 +1,11 @@
+run_id,pid,role,file,reads,bytes_read,opens,seeks,stats,max_byte_read,read_time,meta_time,hist_total,mean_read_size,frac_reads_lt_10k,0_100,100_1K,1K_10K,10K_100K,100K_1M,1M_4M,4M_10M,10M_100M,100M_1G,1G_PLUS
+1950408,1950408,parent,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,10,282655,5,13,19,105482,0.0037679672241210938,0.001522064208984375,10,28265.5,0.5,5,0,0,3,2,0,0,0,0,0
+1950408,1950408,parent,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_4.npz,195,804194982,1,3068,1,800000489,0.42710137367248535,0.0073010921478271484,195,4124076.8307692306,0.015384615384615385,2,1,0,0,0,192,0,0,0,0
+1950408,1950486,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,0,0,0,0,3,0,0.0,5.507469177246094e-05,0,,,0,0,0,0,0,0,0,0,0,0
+1950408,1950487,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,0,0,0,0,3,0,0.0,5.984306335449219e-05,0,,,0,0,0,0,0,0,0,0,0,0
+1950408,1950488,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,0,0,0,0,3,0,0.0,6.771087646484375e-05,0,,,0,0,0,0,0,0,0,0,0,0
+1950408,1950489,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,0,0,0,0,3,0,0.0,5.316734313964844e-05,0,,,0,0,0,0,0,0,0,0,0,0
+1950408,1950490,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,0,0,0,0,3,0,0.0,7.104873657226562e-05,0,,,0,0,0,0,0,0,0,0,0,0
+1950408,1950491,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,0,0,0,0,3,0,0.0,5.936622619628906e-05,0,,,0,0,0,0,0,0,0,0,0,0
+1950408,1950492,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,0,0,0,0,3,0,0.0,5.626678466796875e-05,0,,,0,0,0,0,0,0,0,0,0,0
+1950408,1950493,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,0,0,0,0,3,0,0.0,4.863739013671875e-05,0,,,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,11 @@
+run_id,pid,role,file,reads,bytes_read,read_time,run_time,effective_read_bandwidth_MBps,read_time_per_runtime,read_time_pct_runtime
+1950408,1950408,parent,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,10,282655,0.0037679672241210938,332.5034387111664,75.01524912174133,1.1332115056392513e-05,0.0011332115056392512
+1950408,1950408,parent,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_4.npz,195,804194982,0.42710137367248535,332.5034387111664,1882.9135928199607,0.00128450212523514,0.12845021252351402
+1950408,1950486,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,0,0,0.0,319.87221479415894,,0.0,0.0
+1950408,1950487,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,0,0,0.0,319.8519403934479,,0.0,0.0
+1950408,1950488,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,0,0,0.0,319.851603269577,,0.0,0.0
+1950408,1950489,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,0,0,0.0,319.85394620895386,,0.0,0.0
+1950408,1950490,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,0,0,0.0,319.85077142715454,,0.0,0.0
+1950408,1950491,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,0,0,0.0,319.84329414367676,,0.0,0.0
+1950408,1950492,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,0,0,0.0,319.8376760482788,,0.0,0.0
+1950408,1950493,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_4.py,0,0,0.0,319.8330614566803,,0.0,0.0

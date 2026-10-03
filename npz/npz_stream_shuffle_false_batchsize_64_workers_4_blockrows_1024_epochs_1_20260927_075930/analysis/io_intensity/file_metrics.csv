@@ -1,0 +1,11 @@
+run_id,pid,role,file,reads,bytes_read,opens,seeks,stats,max_byte_read,read_time,meta_time,hist_total,mean_read_size,frac_reads_lt_10k,0_100,100_1K,1K_10K,10K_100K,100K_1M,1M_4M,4M_10M,10M_100M,100M_1G,1G_PLUS
+900490,900490,parent,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_103.py,10,282655,5,13,19,105482,0.003869295120239258,0.0017898082733154297,10,28265.5,0.5,5,0,0,3,2,0,0,0,0,0
+900490,900490,parent,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_103.npz,8,8388984,2,22,2,800000489,0.011615991592407227,0.0009095668792724609,8,1048623.0,0.75,4,2,0,0,0,2,0,0,0,0
+900490,900586,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_103.py,0,0,0,0,3,0,0.0,6.198883056640625e-05,0,,,0,0,0,0,0,0,0,0,0,0
+900490,900586,worker,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_103.npz,54,201326968,2,4906,2,800000489,0.2310199737548828,0.009659051895141602,54,3728277.185185185,0.1111111111111111,4,2,0,0,0,48,0,0,0,0
+900490,900587,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_103.py,0,0,0,0,3,0,0.0,7.343292236328125e-05,0,,,0,0,0,0,0,0,0,0,0,0
+900490,900587,worker,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_103.npz,56,209715576,2,4920,2,800000489,0.27461886405944824,0.00964665412902832,56,3744921.0,0.10714285714285714,4,2,0,0,0,50,0,0,0,0
+900490,900588,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_103.py,0,0,0,0,3,0,0.0,7.796287536621094e-05,0,,,0,0,0,0,0,0,0,0,0,0
+900490,900588,worker,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_103.npz,56,209715576,2,4920,2,800000489,0.28899598121643066,0.009462594985961914,56,3744921.0,0.10714285714285714,4,2,0,0,0,50,0,0,0,0
+900490,900589,worker,/pscratch/sd/s/satt/sprints/a_star_campaign/npz/npz_tr_103.py,0,0,0,0,3,0,0.0,6.985664367675781e-05,0,,,0,0,0,0,0,0,0,0,0,0
+900490,900589,worker,/pscratch/sd/s/satt/sprints/data/converted_10M/mc_normalized_rntuple_10M_103.npz,56,208744180,2,4920,2,804194793,0.27168846130371094,0.00973820686340332,56,3727574.6428571427,0.10714285714285714,4,2,0,0,0,50,0,0,0,0
