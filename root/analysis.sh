@@ -14,15 +14,15 @@ set -uo pipefail
 
 POST=/pscratch/sd/s/satt/sprints/cli-test/ccode/darshanflow/post
 # RUNS="${1:-/pscratch/sd/s/satt/sprints/a_star_campaign/root/runs}"
-RUNS="${1:-/pscratch/sd/s/satt/sprints/final-lap/processed/root-nograph}"
+RUNS="${1:-/pscratch/sd/s/satt/sprints/final-lap/processed/root-compact}"
 # Filter: dataset + training script. Adjust this based on the output of:
 #   python3 -m darshan name_records <one_python3_log> | grep -Ei '\.root|_tr'
 INCLUDE="${INCLUDE:-\.root$|_tr(_[0-9]+)?\.py$}"
 
 # Graphs (true | false). By default all graph options are disabled in the
 # underlying scripts, so they are explicitly enabled here.
-GRAPHS="${GRAPHS:-false}"                    # io_intensity.py: --graphs
-COMPACT="${COMPACT:-false}"                  # other scripts: --compact-graphs
+GRAPHS="${GRAPHS:-true}"                    # io_intensity.py: --graphs
+COMPACT="${COMPACT:-true}"                  # other scripts: --compact-graphs
 INDIVIDUAL="${INDIVIDUAL:-false}"            # access_pattern, effective_read: --individual-graphs
 
 # metadata_pressure reads the unfiltered JSON. Its individual graphs generate

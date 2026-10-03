@@ -1,6 +1,6 @@
 {
  "schema": "darshan-simplified/1",
- "source_dir": "/pscratch/sd/s/satt/sprints/final-lap/processed/root-nograph/root_eager_shuffle_false_batch_64_epochs_10_20260915_002705/darshan_logs",
+ "source_dir": "/pscratch/sd/s/satt/sprints/final-lap/processed/root-compact/root_eager_shuffle_false_batch_64_epochs_10_20260915_002705/darshan_logs",
  "include": null,
  "exclude": null,
  "n_logs": 1,
@@ -8,7 +8,7 @@
  "logs": [
   {
    "log": "satt_python3_id1284227-1284227_9-15-1626-5272112658956808525_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/root-nograph/root_eager_shuffle_false_batch_64_epochs_10_20260915_002705/darshan_logs/strategy_eager_shuffle_false_batchsize_64_epochs_10/satt_python3_id1284227-1284227_9-15-1626-5272112658956808525_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/root-compact/root_eager_shuffle_false_batch_64_epochs_10_20260915_002705/darshan_logs/strategy_eager_shuffle_false_batchsize_64_epochs_10/satt_python3_id1284227-1284227_9-15-1626-5272112658956808525_1.darshan.json",
    "run_id": "1284227",
    "pid": 1284227,
    "role": "parent",

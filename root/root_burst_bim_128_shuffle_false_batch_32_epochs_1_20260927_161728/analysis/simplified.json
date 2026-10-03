@@ -1,6 +1,6 @@
 {
  "schema": "darshan-simplified/1",
- "source_dir": "/pscratch/sd/s/satt/sprints/final-lap/processed/root-nograph/root_burst_bim_128_shuffle_false_batch_32_epochs_1_20260927_161728/darshan_logs",
+ "source_dir": "/pscratch/sd/s/satt/sprints/final-lap/processed/root-compact/root_burst_bim_128_shuffle_false_batch_32_epochs_1_20260927_161728/darshan_logs",
  "include": "\\.root$|_tr(_[0-9]+)?\\.py$",
  "exclude": null,
  "n_logs": 1,
@@ -8,7 +8,7 @@
  "logs": [
   {
    "log": "satt_python3_id1117375-1117375_9-27-58649-1114679708390571064_1.darshan.json",
-   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/root-nograph/root_burst_bim_128_shuffle_false_batch_32_epochs_1_20260927_161728/darshan_logs/strategy_burst_bim_128_shuffle_false_batchsize_32_epochs_1/satt_python3_id1117375-1117375_9-27-58649-1114679708390571064_1.darshan.json",
+   "path": "/pscratch/sd/s/satt/sprints/final-lap/processed/root-compact/root_burst_bim_128_shuffle_false_batch_32_epochs_1_20260927_161728/darshan_logs/strategy_burst_bim_128_shuffle_false_batchsize_32_epochs_1/satt_python3_id1117375-1117375_9-27-58649-1114679708390571064_1.darshan.json",
    "run_id": "1117375",
    "pid": 1117375,
    "role": "parent",
