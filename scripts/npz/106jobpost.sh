@@ -4,7 +4,7 @@
 #SBATCH --time=08:00:00
 #SBATCH --constraint=cpu
 #SBATCH --qos=regular
-#SBATCH --account=m2845
+#SBATCH --account= INSERT Account
 
 
 # ===========================================================================
